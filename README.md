@@ -1,2 +1,2 @@
 # MAKER 2021
-# TangJeong Lego Education
+# TJ Lego Education
